@@ -11,4 +11,4 @@ Each model will have training code (linear/parallel scan) and inference code. Fo
 
 Save a model.weights.h5 with the train code and load the weights with the inference code. Make sure that both models are the the same architecture and replace any training RWKV blocks with the inference type.
 
-
+example in RWKV_v6_infer.py
